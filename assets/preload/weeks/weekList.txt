@@ -1,8 +1,6 @@
-tutorial
-week1
-week2
-week3
-week4
-week5
-week6
-week7
+1grace
+2think
+3scarynight
+4distraught
+5gift
+6thonk
